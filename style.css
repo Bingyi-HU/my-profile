@@ -1,0 +1,33 @@
+
+ body {
+ 	background-color: rgb(230,230,230);
+ 	color: pink;
+ 	font-family: Courier;
+ }
+
+ h1 {
+ 	color: yellow;
+ 	font-family: Helvetica; 
+ 	font-weight:200;
+ 	letter-spacing: 10px;
+ 	font-size: 60px;  
+ }
+ h2 {
+ 	color: rgb(100,100,100);
+ 	font-family: Courier;
+ 	font-size: 24px;
+ 	font-weight: lighter;
+ }
+ a {
+ 	text-decoration: none;
+ 	color:yellow;
+ }
+ a :hover {
+ 	color:orange;
+ }
+
+ div {
+ 	background: white;
+ 	border:2px solid black;
+ 	margin: 10px;
+ }
